@@ -1,4 +1,4 @@
-What is the difference between linear models (lm), generalised linear models (glm) and generalized mixed effect models (glmer) ?
+# What is the difference between linear models (lm), generalised linear models (glm) and generalized mixed effect models (glmer) ?
 
 ## AIs Overviews reponse:
 
