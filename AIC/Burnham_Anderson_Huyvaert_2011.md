@@ -9,4 +9,4 @@ Some key points:
 ### Introduction
 > The standard practice so far has been to define a single alternative hypothesis and to test it against a null hypothesis. An alternative is think of several plausible alternative hypotheses (models) and to evaluate the relative **strenght of evidence** for each hypothesised model.
 
-<code style="color : Aqua">text</code>
+<code style="color : aqua">text</code>
