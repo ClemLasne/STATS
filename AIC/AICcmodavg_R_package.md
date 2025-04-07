@@ -36,3 +36,13 @@ You obtain a table like this:
 ![Screenshot 2025-04-02 at 12 00 44](https://github.com/user-attachments/assets/46d976e0-a61e-474e-8c96-f22a55f3525a)
 
 Source of information for this package : https://www.scribbr.com/statistics/akaike-information-criterion/
+
+
+# Burnham, Anderson and Huyvaert 2011. 
+## AIC model selection and multimodel inference in behavioral ecology: some background, observations, and comparisons
+
+Super interesting paper about the advantages of the **information theory** approach over the tradition statistical tests such as anova and the p-value approach.
+
+Some key points:
+> The standard practice so far has been to define a single alternative hypothesis and to test it against a null hypothesis. An alternative is think of several plausible alternative hypotheses (models) and to evaluate the relative **strenght of evidence** for each hypothesised model.
+
