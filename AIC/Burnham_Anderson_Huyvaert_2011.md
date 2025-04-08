@@ -62,7 +62,11 @@ Example from the paper: if *w<sub>i</sub>* = 0.99, we can be sure that this real
 
 **4. Evidence ratio**
 
-Looking at the ratio of model weights between 2 models *i* and *j* can help determining how strong the empirical evidence is for one model relative to another. evidence if 
+Looking at the ratio of model weights between 2 models *i* and *j* can help determining how strong the empirical evidence is for one model relative to another. 
+
+From R documentation website on the `aictab` R function we use: 
+https://www.rdocumentation.org/packages/AICcmodavg/versions/2.3-3/topics/aictab
+> the Akaike weights, also termed "model probabilities" sensu Burnham and Anderson (2002) and Anderson (2008). These measures indicate the level of support (i.e., weight of evidence) in favor of any given model being the most parsimonious among the candidate model set.
 
 Example from the paper
 > If *w<sub>3</sub>* = 0.78 and *w<sub>1</sub>*= 0.015, 0.78/0.015 = 52, "the empirical support for model 3 is 52 times that of model 1" or "The evidence is 52 times stronger for model 3 than it is for model 1" or "the evidence ration for model 3 over model 1 is 52 to 1". 
