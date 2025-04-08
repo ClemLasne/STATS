@@ -6,6 +6,7 @@ In R:
 install.packages("AICcmodavg")
 library(AICcmodavg)
 ```
+R documentation page about this package: https://www.rdocumentation.org/packages/AICcmodavg/versions/2.3-3/topics/aictab
 
 # how it works
 
